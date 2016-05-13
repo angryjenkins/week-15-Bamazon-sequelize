@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "week 12 myswl assignment",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angryjenkins/week-12-Bamazon.git"
+  },
+  "author": "m. nathaniel martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angryjenkins/week-12-Bamazon/issues"
+  },
+  "homepage": "https://github.com/angryjenkins/week-12-Bamazon#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "mysql": "^2.10.2",
+    "prompt": "^1.0.0"
+  }
+}

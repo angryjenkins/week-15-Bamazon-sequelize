@@ -1,0 +1,20 @@
+	gun	weapons	200	5
+	butter	food	3.75	50
+	milk	food	4	50
+	honey	food	6.5	5
+	knife	weapons	10	20
+	slingshot	weapons	6	10
+	basketball	sports	10	20
+	baseball	sports	5	20
+	hockey stick	sports	20	20
+	bicycle	sports	100	10
+	motor oil	auto	5	15
+	tire shine	auto	5	10
+	longbow	weapons	50	5
+	soccer ball	sports	10	5
+	monitor	electronics	50	5
+	keyboard	electronics	20	5
+	flash drive	electronics	15	5
+	speakers	electronics	25	3
+	helmet	sports	20	5
+	roller skates	sports	17.5	10
